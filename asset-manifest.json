@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Susipazhinkime/static/css/main.a06ec2c0.css",
+    "main.js": "/Susipazhinkime/static/js/main.1e7ef2b9.js",
+    "static/js/787.d03528b2.chunk.js": "/Susipazhinkime/static/js/787.d03528b2.chunk.js",
+    "index.html": "/Susipazhinkime/index.html",
+    "main.a06ec2c0.css.map": "/Susipazhinkime/static/css/main.a06ec2c0.css.map",
+    "main.1e7ef2b9.js.map": "/Susipazhinkime/static/js/main.1e7ef2b9.js.map",
+    "787.d03528b2.chunk.js.map": "/Susipazhinkime/static/js/787.d03528b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a06ec2c0.css",
+    "static/js/main.1e7ef2b9.js"
+  ]
+}
