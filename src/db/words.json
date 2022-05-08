@@ -1,0 +1,510 @@
+[
+  {
+    "title": "vyras",
+    "translate": "мужчина, муж",
+    "category": 1,
+    "img": "husband.jpeg"
+  },
+  {
+    "title": "žmona",
+    "translate": "жена",
+    "category": 1,
+    "img": "wife.jpeg",
+    "audio": "wife.mp3"
+  },
+  {
+    "title": "senelis",
+    "translate": "дедушка",
+    "category": 1,
+    "img": "grandfather.jpeg",
+    "audio": "grandfather.mp3"
+  },
+  {
+    "title": "senele",
+    "translate": "бабушка",
+    "category": 1,
+    "img": "grandmother.jpeg",
+    "audio": "grandmother.mp3"
+  },
+  {
+    "title": "tėvas",
+    "translate": "отец",
+    "category": 1,
+    "img": "father.jpeg",
+    "audio": "father.mp3"
+  },
+  {
+    "title": "mamà",
+    "translate": "мама",
+    "category": 1,
+    "img": "mom.jpeg"
+  },
+  {
+    "title": "sūnùs",
+    "translate": "сын",
+    "category": 1,
+    "img": "sun.jpeg",
+    "audio": "sun.mp3"
+  },
+  {
+    "title": "dukra",
+    "translate": "дочь",
+    "category": 1,
+    "audio": "daugher.mp3"
+  },
+  {
+    "title": "brolis",
+    "translate": "брат",
+    "category": 1,
+    "img": "brother.jpeg",
+    "audio": "brother.mp3"
+  },
+  {
+    "title": "sesuõ",
+    "translate": "сестра",
+    "category": 1,
+    "audio": "sun.mp3"
+  },
+  {
+    "title": "anūkas",
+    "translate": "внук",
+    "category": 1,
+    "img": "grandson.jpeg"
+  },
+  {
+    "title": "anūke",
+    "translate": "внучка",
+    "category": 1,
+    "img": "granddaughter.jpeg",
+    "audio": "granddaughter.mp3"
+  },
+  {
+    "title": "dėdė",
+    "translate": "дядя",
+    "category": 1,
+    "img": "uncle.jpeg",
+    "audio": "uncle.mp3"
+  },
+  {
+    "title": "teta",
+    "translate": "тетя",
+    "category": 1,
+    "img": "aunt.jpeg"
+  },
+  {
+    "title": "pusbrolis",
+    "translate": "кузен",
+    "category": 1,
+    "audio": "cousin.mp3"
+  },
+  {
+    "title": "pusseserė",
+    "translate": "кузина",
+    "category": 1,
+    "audio": "cousin_sister.mp3"
+  },
+  {
+    "title": "didelė",
+    "translate": "большая",
+    "category": 1,
+    "img": "big.jpeg",
+    "audio": "big.mp3"
+  },
+  {
+    "title": "maža",
+    "translate": "маленькая",
+    "category": 1,
+    "img": "little.jpeg"
+  },
+  {
+    "title": "darbuotojas",
+    "translate": "работник",
+    "category": 2,
+    "img": "worker.jpeg",
+    "audio": "worker.mp3"
+  },
+  {
+    "title": "dėstytojas",
+    "translate": "преподаватель",
+    "category": 2,
+    "img": "teacher.jpeg"
+  },
+  {
+    "title": "gydytojas",
+    "translate": "доктор",
+    "category": 2,
+    "img": "doctor.jpeg",
+    "audio": "doctor.mp3"
+  },
+  {
+    "title": "mokytojas",
+    "translate": "учитель",
+    "category": 2,
+    "img": "teacher2.jpeg"
+  },
+  {
+    "title": "programuotojas",
+    "translate": "программист",
+    "category": 2,
+    "img": "programmer.jpeg"
+  },
+  {
+    "title": "rašytojas",
+    "translate": "писатель",
+    "category": 2,
+    "img": "writer.jpeg",
+    "audio": "writer.mp3"
+  },
+  {
+    "title": "vairuotojas",
+    "translate": "водитель",
+    "category": 2,
+    "img": "driver.jpeg"
+  },
+  {
+    "title": "kirpejas",
+    "translate": "парикмахер",
+    "category": 2,
+    "img": "barber.jpeg",
+    "audio": "barber.mp3"
+  },
+  {
+    "title": "padavėjas",
+    "translate": "официант",
+    "category": 2,
+    "img": "waiter.jpeg"
+  },
+  {
+    "title": "pardavėjas",
+    "translate": "продавец",
+    "category": 2,
+    "img": "seller.jpeg"
+  },
+  {
+    "title": "šokejas",
+    "translate": "танцор",
+    "category": 2,
+    "img": "dancer.jpeg",
+    "audio": "dancer.mp3"
+  },
+  {
+    "title": "vertėjas",
+    "translate": "переводчик",
+    "category": 2,
+    "img": "translator.jpeg",
+    "audio": "translator.mp3"
+  },
+  {
+    "title": "dantistas",
+    "translate": "дантист",
+    "category": 2,
+    "img": "dentists.jpeg",
+    "audio": "dentists.mp3"
+  },
+  {
+    "title": "ekonomistas",
+    "translate": "экономист",
+    "category": 2,
+    "img": "economists.jpeg",
+    "audio": "economists.mp3"
+  },
+  {
+    "title": "taksistas",
+    "translate": "таксист",
+    "category": 2,
+    "img": "taxi_driver.jpeg"
+  },
+  {
+    "title": "žurnalistas",
+    "translate": "журналист",
+    "category": 2,
+    "img": "journalist.jpeg"
+  },
+  {
+    "title": "dirigentas",
+    "translate": "дирижер",
+    "category": 2,
+    "img": "conductor.jpeg",
+    "audio": "conductor.mp3"
+  },
+  {
+    "title": "aktorius",
+    "translate": "актер",
+    "category": 2,
+    "img": "actor.jpeg",
+    "audio": "actor.mp3"
+  },
+  {
+    "title": "ambasadorius",
+    "translate": "посол",
+    "category": 2,
+    "audio": "ambassador.mp3"
+  },
+  {
+    "title": "autorius",
+    "translate": "автор",
+    "category": 2,
+    "audio": "author.mp3"
+  },
+  {
+    "title": "direktorius",
+    "translate": "директор",
+    "category": 2
+  },
+  {
+    "title": "inžinierius",
+    "translate": "инженер",
+    "category": 2,
+    "img": "engineer.jpeg",
+    "audio": "engineer.mp3"
+  },
+  {
+    "title": "profèsorius",
+    "translate": "профессор",
+    "category": 2,
+    "img": "professor.webp"
+  },
+  {
+    "title": "režisierius",
+    "translate": "режиссер",
+    "category": 2,
+    "img": "producer.jpeg"
+  },
+  {
+    "title": "sekretorius",
+    "translate": "секретарь",
+    "category": 2,
+    "img": "secretary.jpeg",
+    "audio": "secretary.mp3"
+  },
+  {
+    "title": "bánkininkas",
+    "translate": "банкир",
+    "category": 2,
+    "img": "banker.jpeg"
+  },
+  {
+    "title": "dailininkas",
+    "translate": "художник",
+    "category": 2,
+    "img": "artist.png",
+    "audio": "artist.mp3"
+  },
+  {
+    "title": "dainininkas",
+    "translate": "певец",
+    "category": 2,
+    "img": "singer.jpeg",
+    "audio": "singer.mp3"
+  },
+  {
+    "title": "darbininkas",
+    "translate": "рабочий",
+    "category": 2,
+    "img": "worker2.jpeg",
+    "audio": "worker2.mp3"
+  },
+  {
+    "title": "finánsininkas",
+    "translate": "финансист",
+    "category": 2
+  },
+  {
+    "title": "pensininkas",
+    "translate": "пенсионер",
+    "category": 2,
+    "img": "retiree.jpeg",
+    "audio": "retiree.mp3"
+  },
+  {
+    "title": "policininkas",
+    "translate": "полицейский",
+    "category": 2,
+    "img": "policeman.jpeg"
+  },
+  {
+    "title": "spòrtininkas",
+    "translate": "спортсмен",
+    "category": 2
+  },
+  {
+    "title": "teisininkas",
+    "translate": "юрист",
+    "category": 2,
+    "img": "lawyer.jpeg",
+    "audio": "lawyer.mp3"
+  },
+  {
+    "title": "ukininkas",
+    "translate": "фермер",
+    "category": 2,
+    "img": "farmer.jpeg",
+    "audio": "farmer.mp3"
+  },
+  {
+    "title": "vadýbininkas",
+    "translate": "менеджер",
+    "category": 2,
+    "img": "manager.jpeg",
+    "audio": "manager.mp3"
+  },
+  {
+    "title": "verslininkas",
+    "translate": "бизнесмен",
+    "category": 2,
+    "img": "businessman.png",
+    "audio": "businessman.mp3"
+  },
+  {
+    "title": "medikas",
+    "translate": "медик",
+    "category": 2
+  },
+  {
+    "title": "buhálteris",
+    "translate": "бухгалтер",
+    "category": 2,
+    "img": "accountant.jpeg",
+    "audio": "accountant.mp3"
+  },
+  {
+    "title": "architèktas",
+    "translate": "архитектор",
+    "category": 2,
+    "img": "architect.jpeg",
+    "audio": "architect.mp3"
+  },
+  {
+    "title": "mokinys",
+    "translate": "ученик",
+    "category": 2,
+    "img": "student.jpeg",
+    "audio": "student.mp3"
+  },
+  {
+    "title": "mokyklà",
+    "translate": "школа",
+    "category": 3,
+    "img": "school.jpeg",
+    "audio": "school.mp3"
+  },
+  {
+    "title": "universitètas",
+    "translate": "университет",
+    "category": 3,
+    "audio": "university.mp3"
+  },
+  {
+    "title": "institùtas",
+    "translate": "институт",
+    "category": 3,
+    "audio": "institute.mp3"
+  },
+  {
+    "title": "teatras",
+    "translate": "театр",
+    "category": 3,
+    "audio": "theater.mp3"
+  },
+  {
+    "title": "leidyklà",
+    "translate": "издательство",
+    "category": 3,
+    "img": "publishing_house.jpeg",
+    "audio": "publishing_house.mp3"
+  },
+  {
+    "title": "stùdija",
+    "translate": "студия",
+    "category": 3,
+    "audio": "studio.mp3"
+  },
+  {
+    "title": "galèrija",
+    "translate": "галерея",
+    "category": 3,
+    "img": "gallery.jpeg",
+    "audio": "gallery.mp3"
+  },
+  {
+    "title": "parduotuvė",
+    "translate": "магазин",
+    "category": 3,
+    "img": "shop.jpeg"
+  },
+  {
+    "title": "kavinė",
+    "translate": "кафе",
+    "category": 3,
+    "img": "cafe.jpeg"
+  },
+  {
+    "title": "restoranas",
+    "translate": "ресторан",
+    "category": 3,
+    "img": "restaurant.jpeg",
+    "audio": "restaurant.mp3"
+  },
+  {
+    "title": "ligonine",
+    "translate": "больница",
+    "category": 3,
+    "img": "hospital.jpeg",
+    "audio": "hospital.mp3"
+  },
+  {
+    "title": "prezidentūra",
+    "translate": "президентство",
+    "category": 3,
+    "img": "presidency.jpeg",
+    "audio": "presidency.mp3"
+  },
+  {
+    "title": "ambasadà",
+    "translate": "посольство",
+    "category": 3
+  },
+  {
+    "title": "bánkas",
+    "translate": "банк",
+    "category": 3,
+    "img": "bank.jpeg",
+    "audio": "bank.mp3"
+  },
+  {
+    "title": "kirpykla",
+    "translate": "парикмахерская",
+    "category": 3,
+    "audio": "barbershop.mp3"
+  },
+  {
+    "title": "grožio salonas",
+    "translate": "салон красоты",
+    "category": 3
+  },
+  {
+    "title": "gamykla",
+    "translate": "фабрика",
+    "category": 3,
+    "img": "factory.webp"
+  },
+  {
+    "title": "firma",
+    "translate": "компания",
+    "category": 3,
+    "audio": "company.mp3"
+  },
+  {
+    "title": "biuras",
+    "translate": "офис",
+    "category": 3,
+    "audio": "office.mp3"
+  },
+  {
+    "title": "ūkis",
+    "translate": "ферма",
+    "category": 3,
+    "img": "farm.jpeg",
+    "audio": "farm.mp3"
+  }
+]
