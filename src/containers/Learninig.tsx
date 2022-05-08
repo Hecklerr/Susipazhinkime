@@ -36,7 +36,7 @@ export const Learning = () => {
     const words = shuffle(data.filter(({category}: Word) => category === parseInt(pageCategory!)))
 
     const playAudio = (audio: string) => {
-        const audioFile = new Audio(`../Audio/${audio}`)
+        const audioFile = new Audio(process.env.PUBLIC_URL + `/Audio/${audio}`)
         audioFile.play();
     }
 
@@ -53,7 +53,7 @@ export const Learning = () => {
                         >
                             <div onClick={() => (slider.current!as any).next()}>
                                 <p>{translate}</p>
-                                <Image src={`../Images/${img}`}/>
+                                <Image src={process.env.PUBLIC_URL + `/Images/${img}`}/>
                             </div>
                         </CardComponent>
                     ))
