@@ -7,7 +7,8 @@ import {Link, useParams} from 'react-router-dom'
 import {Word} from './Types'
 
 const TestWrapper = styled.div`
-    width: 41rem;
+    max-width: 41rem;
+    width: 100%;
     margin: 0 auto;
 `
 

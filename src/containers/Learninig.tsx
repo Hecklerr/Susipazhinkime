@@ -9,7 +9,8 @@ import {Word} from './Types'
 import {Link, useParams} from 'react-router-dom'
 
 const CarouselComponent = styled(Carousel)`
-    width: 41rem;
+    max-width: 41rem;
+    width: 100%;
     margin: 0 auto;
 `
 const CardComponent = styled(Card)`
@@ -18,7 +19,8 @@ const CardComponent = styled(Card)`
 `
 
 const Image = styled.img`
-    width: 19rem;
+    max-width: 19rem;
+    width: 100%;
     height: 19rem;
     margin: 0 auto 1rem;
 `
