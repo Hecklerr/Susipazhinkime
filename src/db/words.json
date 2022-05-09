@@ -506,5 +506,147 @@
     "category": 3,
     "img": "farm.jpeg",
     "audio": "farm.mp3"
+  },
+  {
+    "title": "viešbutis",
+    "translate": "отель",
+    "category": 4,
+    "audio": "hotel.mp3",
+    "img": "hotel.jpeg"
+  },
+  {
+    "title": "bendrabutis",
+    "translate": "общежитие",
+    "category": 4,
+    "img": "bursa.jpeg",
+    "audio": "bursa.mp3"
+  },
+  {
+    "title": "vaistinė",
+    "translate": "аптека",
+    "category": 4,
+    "audio": "pharmacy.mp3",
+    "img": "pharmacy.jpeg"
+  },
+  {
+    "title": "bažnyčia",
+    "translate": "храм",
+    "category": 4,
+    "audio": "church.mp3",
+    "img": "church.jpeg"
+  },
+  {
+    "title": "muziejus",
+    "translate": "музей",
+    "category": 4
+  },
+  {
+    "title": "knygynas",
+    "translate": "книжный магазин",
+    "category": 4
+  },
+  {
+    "title": "kino teatras",
+    "translate": "кинотеатр",
+    "category": 4,
+    "audio": "cinema.mp3"
+  },
+  {
+    "title": "namas",
+    "translate": "дом",
+    "category": 4,
+    "audio": "house.mp3",
+    "img": "house.jpeg"
+  },
+  {
+    "title": "oro uostas",
+    "translate": "аэропорт",
+    "category": 4,
+    "audio": "airport.mp3",
+    "img": "airport.jpeg"
+  },
+  {
+    "title": "autobusų stotis",
+    "translate": "автовокзал",
+    "category": 4,
+    "audio": "bus_station.mp3"
+  },
+  {
+    "title": "geležinkelio stotis",
+    "translate": "железнодорожный вокзал",
+    "category": 4,
+    "audio": "railway_station.mp3",
+    "img": "railway_station.jpeg"
+  },
+  {
+    "title": "gatvė",
+    "translate": "улица",
+    "category": 4,
+    "audio": "street.mp3",
+    "img": "street.jpeg"
+  },
+  {
+    "title": "stotelė",
+    "translate": "остановка",
+    "category": 4,
+    "audio": "bus-stop.mp3",
+    "img": "bus-stop.jpeg"
+  },
+  {
+    "title": "šaligatvis",
+    "translate": "тротуар",
+    "category": 4,
+    "audio": "pavement.mp3",
+    "img": "pavement.jpeg"
+  },
+  {
+    "title": "sankryža",
+    "translate": "перекресток",
+    "category": 4,
+    "audio": "crossroad.mp3",
+    "img": "crossroad.jpeg"
+  },
+  {
+    "title": "šviesoforas",
+    "translate": "светофор",
+    "category": 4,
+    "audio": "traffic_lights.mp3"
+  },
+  {
+    "title": "pereja",
+    "translate": "переход",
+    "category": 4,
+    "img": "crosswalk.jpeg"
+  },
+  {
+    "title": "kioskas",
+    "translate": "киоск",
+    "category": 4
+  },
+  {
+    "title": "bilietas",
+    "translate": "билет",
+    "category": 4,
+    "audio": "ticket.mp3"
+  },
+  {
+    "title": "parkas",
+    "translate": "парк",
+    "category": 4,
+    "audio": "park.mp3"
+  },
+  {
+    "title": "aikštė",
+    "translate": "площадь",
+    "category": 4,
+    "audio": "square.mp3",
+    "img": "square.jpeg"
+  },
+  {
+    "title": "tiltas",
+    "translate": "мост",
+    "category": 4,
+    "audio": "bridge.mp3",
+    "img": "bridge.jpeg"
   }
 ]
