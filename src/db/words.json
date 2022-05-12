@@ -648,5 +648,63 @@
     "category": 4,
     "audio": "bridge.mp3",
     "img": "bridge.jpeg"
+  },
+  {
+    "title": "autobùsas",
+    "translate": "автобус",
+    "category": 5,
+    "audio": "bus.mp3"
+  },
+  {
+    "title": "dviratis",
+    "translate": "велосипед",
+    "category": 5,
+    "audio": "bike.mp3",
+    "img": "bike.jpeg"
+  },
+  {
+    "title": "kéltas",
+    "translate": "паром",
+    "category": 5,
+    "img": "ferry.jpeg"
+  },
+  {
+    "title": "laivas",
+    "translate": "корабль",
+    "category": 5,
+    "audio": "ship.mp3",
+    "img": "ship.jpeg"
+  },
+  {
+    "title": "lėktùvas",
+    "translate": "самолет",
+    "category": 5,
+    "audio": "plane.mp3",
+    "img": "plane.jpeg"
+  },
+  {
+    "title": "mašinà",
+    "translate": "машина",
+    "category": 5,
+    "audio": "car.mp3"
+  },
+  {
+    "title": "motociklas",
+    "translate": "мотоцикл",
+    "category": 5,
+    "audio": "motorbike.mp3"
+  },
+  {
+    "title": "traukinỹs",
+    "translate": "поезд",
+    "category": 5,
+    "audio": "train.mp3",
+    "img": "train.jpeg"
+  },
+  {
+    "title": "troleibùsas",
+    "translate": "троллейбус",
+    "category": 5,
+    "audio": "trolleybus.mp3"
   }
 ]
