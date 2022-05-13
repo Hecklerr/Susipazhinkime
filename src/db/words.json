@@ -706,5 +706,45 @@
     "translate": "троллейбус",
     "category": 5,
     "audio": "trolleybus.mp3"
+  },
+  {
+    "title": "eiti – eina, ėjo",
+    "translate": "идти",
+    "category": 6,
+    "audio": "go.mp3"
+  },
+  {
+    "title": "láukti – láukia, láukė",
+    "translate": "ждать",
+    "category": 6,
+    "audio": "wait.mp3",
+    "img": "wait.jpeg"
+  },
+  {
+    "title": "(nusi)pirkti – (nusi)perka, (nusi)pirko (ką?)",
+    "translate": "покупать",
+    "category": 6,
+    "audio": "buy.mp3",
+    "img": "buy.jpeg"
+  },
+  {
+    "title": "pakartóti – pakartója, pakartójo",
+    "translate": "повторить",
+    "category": 6,
+    "audio": "repeat.mp3",
+    "img": "repeat.jpeg"
+  },
+  {
+    "title": "pasakýti – pasãko, pasãkė",
+    "translate": "сказать",
+    "category": 6,
+    "audio": "tell.mp3",
+    "img": "tell.png"
+  },
+  {
+    "title": "pasùkti – pàsuka, pasùko (į ką?)",
+    "translate": "повернуть",
+    "category": 6,
+    "img": "turn.jpeg"
   }
 ]
