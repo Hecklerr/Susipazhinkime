@@ -746,5 +746,73 @@
     "translate": "повернуть",
     "category": 6,
     "img": "turn.jpeg"
+  },
+  {
+    "title": "plaũkti – plaũkia, plaũkė",
+    "translate": "плыть",
+    "category": 6,
+    "audio": "swim.mp3",
+    "img": "swim.jpeg"
+  },
+  {
+    "title": "skristi – skreñda, skrido",
+    "translate": "лететь",
+    "category": 6,
+    "img": "fly.jpeg"
+  },
+  {
+    "title": "susitikti – susitiñka, susitiko (ką? prie ko?)",
+    "translate": "встретиться",
+    "category": 6,
+    "img": "meet.jpeg"
+  },
+  {
+    "title": "sustóti – sustója, sustójo",
+    "translate": "остановиться",
+    "category": 6,
+    "audio": "stop.mp3",
+    "img": "stop.jpeg"
+  },
+  {
+    "title": "važiúoti – važiúoja, važiãvo",
+    "translate": "ехать",
+    "category": 6,
+    "audio": "drive.mp3",
+    "img": "drive.jpeg"
+  },
+  {
+    "title": "veikti – veikia, veikė",
+    "translate": "действовать",
+    "category": 6,
+    "audio": "act.mp3",
+    "img": "act.jpeg"
+  },
+  {
+    "title": "tiesiai",
+    "translate": "прямо",
+    "category": 6,
+    "audio": "forward.mp3",
+    "img": "forward.jpeg"
+  },
+  {
+    "title": "į kairę (kairėje)",
+    "translate": "налево (слева)",
+    "category": 6,
+    "audio": "left.mp3",
+    "img": "left.png"
+  },
+  {
+    "title": "į dešinę (dešinėje)",
+    "translate": "направо (справа)",
+    "category": 6,
+    "audio": "right.mp3",
+    "img": "right.jpeg"
+  },
+  {
+    "title": "atgal",
+    "translate": "назад",
+    "category": 6,
+    "audio": "backward.mp3",
+    "img": "backward.png"
   }
 ]
