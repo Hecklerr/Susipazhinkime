@@ -814,5 +814,463 @@
     "category": 6,
     "audio": "backward.mp3",
     "img": "backward.png"
+  },
+  {
+    "title": "bandelė",
+    "translate": "булочка",
+    "category": 7,
+    "audio": "small-bread.mp3",
+    "img": "small-bread.jpeg"
+  },
+  {
+    "title": "batònas",
+    "translate": "батон",
+    "audio": "white-bread.mp3",
+    "category": 7
+  },
+  {
+    "title": "dúona",
+    "translate": "хлеб",
+    "audio": "bread.mp3",
+    "img": "bread.jpeg",
+    "category": 7
+  },
+  {
+    "title": "pyrãgas",
+    "category": 7,
+    "translate": "пирог",
+    "audio": "cake.mp3"
+  },
+  {
+    "title": "sausainis",
+    "category": 7,
+    "translate": "печенье",
+    "audio": "biscuit.mp3",
+    "img": "biscuit.jpeg"
+  },
+  {
+    "title": "tòrtas",
+    "category": 7,
+    "translate": "торт",
+    "audio": "sweet-cake.mp3"
+  },
+  {
+    "title": "grietinė",
+    "category": 7,
+    "translate": "сметана",
+    "audio": "sour-cream.mp3"
+  },
+  {
+    "title": "jogùrtas",
+    "category": 7,
+    "translate": "йогурт",
+    "audio": "yogurt.mp3"
+  },
+  {
+    "title": "ledai",
+    "category": 7,
+    "translate": "мороженое",
+    "img": "ice-cream.jpeg"
+  },
+  {
+    "title": "pienas",
+    "category": 7,
+    "translate": "молоко",
+    "audio": "milk.mp3"
+  },
+  {
+    "title": "rūgpienis",
+    "category": 7,
+    "translate": "простокваша, кислое молоко",
+    "audio": "sour-milk.mp3",
+    "img": "sour-milk.jpeg"
+  },
+  {
+    "title": "sūris",
+    "category": 7,
+    "translate": "сыр",
+    "audio": "cheese.mp3"
+  },
+  {
+    "title": "sviestas",
+    "category": 7,
+    "translate": "масло",
+    "audio": "oil.mp3",
+    "img": "oil.jpeg"
+  },
+  {
+    "title": "varškė",
+    "category": 7,
+    "translate": "творог",
+    "audio": "milk-cheese.mp3",
+    "img": "milk-cheese.jpeg"
+  },
+  {
+    "title": "dešrà",
+    "category": 7,
+    "translate": "колбаса",
+    "audio": "sausage.mp3",
+    "img": "sausage.jpeg"
+  },
+  {
+    "title": "dešrelė",
+    "category": 7,
+    "translate": "колбаска, сосиска",
+    "img": "small-sausage.jpeg",
+    "audio": "small-sausage.mp3"
+  },
+  {
+    "title": "jáutiena",
+    "category": 7,
+    "translate": "говядина",
+    "audio": "beef.mp3",
+    "img": "beef.jpeg"
+  },
+  {
+    "title": "kiauliena",
+    "category": 7,
+    "translate": "свинина",
+    "audio": "pork.mp3",
+    "img": "pork.jpeg"
+  },
+  {
+    "title": "mėsà",
+    "category": 7,
+    "translate": "мясо",
+    "audio": "meat.mp3",
+    "img": "meat.jpeg"
+  },
+  {
+    "title": "vištiena",
+    "category": 7,
+    "translate": "курятина",
+    "audio": "chicken.mp3",
+    "img": "chicken.jpeg"
+  },
+  {
+    "title": "daržovės",
+    "category": 7,
+    "translate": "овощи",
+    "img": "vegetables.jpeg"
+  },
+  {
+    "title": "agurkas",
+    "category": 7,
+    "translate": "огурец",
+    "audio": "cocumber.mp3"
+  },
+  {
+    "title": "bùlvė",
+    "category": 7,
+    "translate": "картофель",
+    "audio": "potato.mp3"
+  },
+  {
+    "title": "česnãkas",
+    "category": 7,
+    "translate": "чеснок",
+    "audio": "garlic.mp3"
+  },
+  {
+    "title": "morkà",
+    "category": 7,
+    "translate": "морковь",
+    "audio": "carrot.mp3",
+    "img": "carrot.jpeg"
+  },
+  {
+    "title": "kopūstas",
+    "category": 7,
+    "translate": "капуста",
+    "img": "cabbage.jpeg",
+    "audio": "cabbage.mp3"
+  },
+  {
+    "title": "pomidòras",
+    "category": 7,
+    "translate": "помидор",
+    "audio": "tomato.mp3"
+  },
+  {
+    "title": "pupelė",
+    "category": 7,
+    "translate": "фасоль",
+    "img": "beans.jpeg",
+    "audio": "beans.mp3"
+  },
+  {
+    "title": "svogūnas",
+    "category": 7,
+    "translate": "лук",
+    "audio": "onion.mp3",
+    "img": "onion.jpeg"
+  },
+  {
+    "title": "žirnis",
+    "category": 7,
+    "translate": "горох",
+    "audio": "peas.mp3",
+    "img": "peas.jpeg"
+  },
+  {
+    "title": "vaisiai",
+    "category": 7,
+    "translate": "фрукты",
+    "audio": "fruit.mp3",
+    "img": "fruit.jpeg"
+  },
+  {
+    "title": "uogos",
+    "category": 7,
+    "translate": "ягоды",
+    "img": "berries.jpeg"
+  },
+  {
+    "title": "apelsinas",
+    "category": 7,
+    "translate": "апельсин",
+    "audio": "orange.mp3"
+  },
+  {
+    "title": "banãnas",
+    "category": 7,
+    "translate": "банан"
+  },
+  {
+    "title": "brãškė",
+    "category": 7,
+    "translate": "клубника",
+    "audio": "strawberry.mp3",
+    "img": "strawberry.jpeg"
+  },
+  {
+    "title": "citrinà",
+    "category": 7,
+    "translate": "лимон",
+    "audio": "lemon.mp3",
+    "img": "lemon.jpeg"
+  },
+  {
+    "title": "kriáušė",
+    "category": 7,
+    "translate": "груша",
+    "audio": "pear.mp3",
+    "img": "pear.jpeg"
+  },
+  {
+    "title": "obuolys",
+    "category": 7,
+    "translate": "яблоко",
+    "audio": "apple.mp3",
+    "img": "apple.jpeg"
+  },
+  {
+    "title": "slyvà",
+    "category": 7,
+    "translate": "слива"
+  },
+  {
+    "title": "vynuogė",
+    "category": 7,
+    "translate": "виноград",
+    "audio": "grape.mp3",
+    "img": "grape.jpeg"
+  },
+  {
+    "title": "vyšnià",
+    "category": 7,
+    "translate": "вишня",
+    "audio": "cherry.mp3"
+  },
+  {
+    "title": "cùkrus",
+    "category": 7,
+    "translate": "сахар",
+    "audio": "sugar.mp3",
+    "img": "sugar.jpeg"
+  },
+  {
+    "title": "druskà",
+    "category": 7,
+    "translate": "соль",
+    "audio": "salt.mp3",
+    "img": "salt.jpeg"
+  },
+  {
+    "title": "grybai",
+    "category": 7,
+    "translate": "грибы",
+    "audio": "mashrooms.mp3",
+    "img": "mashrooms.jpeg"
+  },
+  {
+    "title": "kiaušinis",
+    "category": 7,
+    "translate": "яйцо",
+    "audio": "egg.mp3",
+    "img": "egg.jpeg"
+  },
+  {
+    "title": "majonèzas",
+    "category": 7,
+    "translate": "майонез",
+    "audio": "mayonnaise.mp3"
+  },
+  {
+    "title": "makarònai",
+    "category": 7,
+    "translate": "макароны",
+    "audio": "pasta.mp3"
+  },
+  {
+    "title": "miltai",
+    "category": 7,
+    "translate": "мука",
+    "audio": "flour.mp3",
+    "img": "flour.jpeg"
+  },
+  {
+    "title": "pãdažas",
+    "category": 7,
+    "translate": "соус",
+    "audio": "sauce.mp3",
+    "img": "sauce.jpeg"
+  },
+  {
+    "title": "prieskoniai",
+    "category": 7,
+    "translate": "приправа",
+    "audio": "seasoning.mp3",
+    "img": "seasoning.jpeg"
+  },
+  {
+    "title": "pipirai",
+    "category": 7,
+    "translate": "перец",
+    "img": "pipirai.jpeg"
+  },
+  {
+    "title": "žuvis",
+    "category": 7,
+    "translate": "рыба",
+    "audio": "fish.mp3",
+    "img": "fish.jpeg"
+  },
+  {
+    "title": "maistas",
+    "category": 7,
+    "translate": "Еда/пища",
+    "audio": "food.mp3",
+    "img": "food.jpeg"
+  },
+  {
+    "title": "gėrimai",
+    "category": 8,
+    "translate": "напитки",
+    "audio": "drinks",
+    "img": "drinks.jpeg"
+  },
+  {
+    "title": "patiekalai",
+    "category": 8,
+    "translate": "блюда",
+    "img": "dish.jpeg"
+  },
+  {
+    "title": "arbatà (juodà / žalià / sù citrinà / sù cùkrumi / bè cùkraus)",
+    "category": 8,
+    "translate": "чай",
+    "audio": "tea.mp3",
+    "img": "tea.jpeg"
+  },
+  {
+    "title": "breñdis",
+    "category": 8,
+    "translate": "бренди",
+    "audio": "brendy.mp3"
+  },
+  {
+    "title": "degtinė",
+    "category": 8,
+    "translate": "водка",
+    "audio": "vodka.mp3",
+    "img": "vodka.mp3"
+  },
+  {
+    "title": "kavà (baltà / juodà)",
+    "category": 8,
+    "translate": "кофе",
+    "audio": "coffe.mp3"
+  },
+  {
+    "title": "sùltys (obuolių / apelsinų /vynuogių)",
+    "category": 8,
+    "translate": "сок",
+    "audio": "juice.mp3",
+    "img": "juice.jpeg"
+  },
+  {
+    "title": "minerãlinis vanduo",
+    "category": 8,
+    "translate": "минеральная вода",
+    "audio": "mineral_water.jpeg"
+  },
+  {
+    "title": "vynas (raudónas / báltas / saũsas / pusiáu saũsas)",
+    "category": 8,
+    "translate": "вино",
+    "audio": "vine.mp3"
+  },
+  {
+    "title": "blyneliai",
+    "category": 8,
+    "translate": "блинчики",
+    "audio": "pancakes.mp3"
+  },
+  {
+    "title": "cepelinai",
+    "category": 8,
+    "translate": "цепеллины"
+  },
+  {
+    "title": "kepsnys",
+    "category": 8,
+    "translate": "жаркое",
+    "audio": "roast_meat.mp3",
+    "img": "roast_meat.jpeg"
+  },
+  {
+    "title": "picà",
+    "category": 8,
+    "translate": "пицца",
+    "img": "pizza.jpeg"
+  },
+  {
+    "title": "salotos",
+    "category": 8,
+    "translate": "салат",
+    "audio": "salad.mp3",
+    "img": "salad.jpeg"
+  },
+  {
+    "title": "silkė",
+    "category": 8,
+    "translate": "селедка",
+    "audio": "herring.mp3",
+    "img": "herring.jpeg"
+  },
+  {
+    "title": "sriubà",
+    "category": 8,
+    "translate": "суп",
+    "audio": "soup.mp3",
+    "img": "soup.jpeg"
+  },
+  {
+    "title": "sultinys",
+    "category": 8,
+    "translate": "бульон",
+    "audio": "bouillon.mp3",
+    "img": "bouillon.jpeg"
   }
 ]
