@@ -1167,7 +1167,7 @@
     "title": "gėrimai",
     "category": 8,
     "translate": "напитки",
-    "audio": "drinks",
+    "audio": "drinks.mp3",
     "img": "drinks.jpeg"
   },
   {
@@ -1194,7 +1194,7 @@
     "category": 8,
     "translate": "водка",
     "audio": "vodka.mp3",
-    "img": "vodka.mp3"
+    "img": "vodka.jpeg"
   },
   {
     "title": "kavà (baltà / juodà)",
@@ -1213,7 +1213,7 @@
     "title": "minerãlinis vanduo",
     "category": 8,
     "translate": "минеральная вода",
-    "audio": "mineral_water.jpeg"
+    "audio": "mineral_water.mp3"
   },
   {
     "title": "vynas (raudónas / báltas / saũsas / pusiáu saũsas)",
